@@ -9,6 +9,6 @@ I recommend installing Anaconda to manage all the dependencies if you run it loc
 The first cell enables you to show/hide the code of the notebook; you can show/hide it just by clicking on it (thanks for this nice feature https://stackoverflow.com/users/4244561/harshil , it can be found at https://stackoverflow.com/questions/27934885/how-to-hide-code-from-cells-in-ipython-notebook-visualized-with-nbviewer) 
 
 ## Interesting sources related to the notebook
-https://github.com/llSourcell/Intro_to_the_Math_of_intelligence
-http://charlesfranzen.com/posts/multiple-regression-in-python-gradient-descent/
-https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+https://github.com/llSourcell/Intro_to_the_Math_of_intelligence <p>
+http://charlesfranzen.com/posts/multiple-regression-in-python-gradient-descent/ <p>
+https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/ 
