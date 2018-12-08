@@ -1,6 +1,6 @@
 # Goal
 
-In this tutotial, we are going to explore a way to calibrate an electronic device by means of making several measures of the variables of interest provided by the device and the already known values of the target variable, via univariate linear regression.
+In this tutorial, we are going to see a way to calibrate an electronic device by means of making several measures of the variables of interest provided by the device and the already known values of the target variable, via univariate linear regression.
 
 ## Dependencies
 I recommend installing Anaconda to manage all the dependencies if you run it locally; in case you use some cloud platform, you should not have much problem running the notebook, where dependencies should be already included.
